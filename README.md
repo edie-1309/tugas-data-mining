@@ -1,2 +1,3 @@
 # tugas-data-mining
-Ini merupakan tugas dari matkul data mining
+Nama: Edi Nugroho
+NIM: 221011402708
